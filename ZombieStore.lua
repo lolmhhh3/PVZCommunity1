@@ -1,6 +1,6 @@
-local func = []
+local func = {}
 
-func.Test = []
+func.Test = {}
 
 func.Test.Name = "TestZom"
 func.Test.Speed = 1
